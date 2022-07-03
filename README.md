@@ -1,6 +1,7 @@
 # Widget para Feedback
 Nesta aplicação  o usuário pode enviar comentarios e imagens, podem ser negativos ou positivos sobre o site.
+![1](https://user-images.githubusercontent.com/106246945/177045756-029f2811-f973-4b25-ad5e-a465ef851aa9.png)
+![2](https://user-images.githubusercontent.com/106246945/177045757-551ec698-7f8d-47ea-b57d-9144d936e092.png)
+![3](https://user-images.githubusercontent.com/106246945/177045758-3c49b7f3-1a16-43f9-95b4-361984fee937.png)
 
-![1](https://user-images.githubusercontent.com/106246945/177045613-c27bd830-eb31-4f9e-b46b-181ddc805f8e.png)
-![2](https://user-images.githubusercontent.com/106246945/177045623-b5665db9-d35e-4d78-94cb-d8816387a65d.png)
-![3](https://user-images.githubusercontent.com/106246945/177045631-0f81434e-6505-4428-96f7-8c39e33577ea.png)
+
